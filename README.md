@@ -18,3 +18,5 @@ Built and running on n8n Cloud. The AI drafting step is in draft tuning.
 Manual inbox triage of new leads.
 
 This repo is design and workflow documentation only. No credentials, no keys, no personal data.
+
+© 2026 Razi Ismail. All rights reserved. Showcase material: architecture and documentation only.
